@@ -13,7 +13,19 @@ Digital Wardrobe is designed to help users:
 📌 How to Run Locally
 1. Clone the repository
 git clone https://github.com/LeonMadnes/digital-wardrobe.git
-3. Open and run in your java IDE
+2. Open and run in your java IDE
+3. 4. The Digital Wardrobe Menu will appear in the console.
+Follow the prompts to:
+- Add clothing items
+- View your wardrobe
+- Generate outfits
+- View saved outfits
+
+Notes:
+The program automatically loads items from wardrobe.txt when it starts. I have taken the liberty to add some so 
+its easier to have a grasp of the app, but you may delete the file and start fresh.
+When you add or edit clothing items, they are automatically saved back to the file.
+Generated outfits are saved to saved_outfits.txt.
 
 🧠 Tech stack: 
 Language: Java
