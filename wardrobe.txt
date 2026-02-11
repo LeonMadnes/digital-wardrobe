@@ -1,0 +1,20 @@
+Shirt|Shirt 1|Red|Any|Casual|M|Cotton
+Shirt|Shirt 2|Red|Any|Casual|M|Cotton
+Shirt|Winter Shirt 1|Blue|Winter|Casual|M|Cotton
+Shirt|Winter Shirt 2|Green|Winter|Casual|M|Cotton
+Pants|Winter Pants 1|Grey|Winter|Casual|M|Jean
+Pants|Winter Pants 2|Red|Winter|Casual|M|Cotton
+Shoes|Winter Shoes 1|Red|Winter|Casual|10.5|Rubber
+Shoes|Winter Shoes 2|Red|Winter|Casual|10.5|Rubber
+Shirt|Nike Summer Shirt|Bright Red|Summer|Any|M|Polyester
+Shirt|Test Shirt for Editing|Red|Any|Any|M|Polyester
+Jacket|Light Jacket 1|Black|Any|Casual|M|Nylon
+Jacket|Winter Jacket 1|Blue|Winter|Casual|M|Down
+Jacket|Winter Jacket 2|Grey|Winter|Casual|M|Polyester
+Pants|Summer Shorts 1|Khaki|Summer|Casual|M|Cotton
+Pants|Summer Shorts 2|Blue|Summer|Casual|M|Cotton
+Shoes|Running Shoes 1|White|Any|Any|10.5|Mesh
+Shoes|Running Shoes 2|Black|Any|Any|10.5|Mesh
+Shirt|Formal Shirt 1|White|Any|Formal|M|Cotton
+Pants|Dress Pants 1|Black|Any|Formal|M|Polyester
+Shoes|Dress Shoes 1|Brown|Any|Formal|10.5|Leather
