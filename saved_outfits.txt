@@ -1,0 +1,2 @@
+Outfit: [Winter Shirt 1 (Shirt, Blue, Winter, Casual, M, Cotton), Winter Pants 1 (Pants, Grey, Winter, Casual, M, Jean), Winter Shoes 2 (Shoes, Red, Winter, Casual, 10.5, idk)]
+Outfit: [Test Shirt for Editing (Shirt, Red, Any, Any, M, Polyester), Winter Pants 2 (Pants, Red, Winter, Casual, M, Cotton), Winter Shoes 2 (Shoes, Red, Winter, Casual, 10.5, idk)]
